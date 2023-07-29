@@ -78,10 +78,10 @@ button {
     background: rgb(201, 201, 201);
 }
 
-/* 
+
 button:hover{
     filter: brightness(110);
-} */
+}
 
 button:active {
     transform: translateY(1px);
